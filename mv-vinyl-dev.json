@@ -1,9 +1,3119 @@
 {
-	"record": [],
 	"records": [
 		{
+			"release_title": "The Grand Wazoo",
+			"artist": "Frank Zappa and The Mothers",
+			"release_year": "1972",
+			"mbid": "06d6a216-6814-4f6f-8c41-7a4bd6e6b5e3",
+			"mbidJson": 0
+		},
+		{
 			"release_title": "Burnt Weeny Sandwich",
-			"artist": "Frank Zappa"
+			"artist": "Frank Zappa and The Mothers of Invention",
+			"release_year": "1970",
+			"mbid": "8b3c4eed-26db-45a7-9407-e637f728ebb8",
+			"mbidJson": 2
+		},
+		{
+			"release_title": "Come Around and Love Me",
+			"artist": "Jalen Ngonda",
+			"release_year": "2023",
+			"mbid": "29d18bc4-b01f-44e6-bd0d-b3d435ab65e0",
+			"mbidJson": 3
+		},
+		{
+			"release_title": "Leadbelly",
+			"artist": "Huddie Ledbetter",
+			"release_year": "1943",
+			"mbidJson": 6,
+			"mbid": "9be1f819-d127-4410-a18b-f05c0597fdf8",
+			"thumbnail": "http://coverartarchive.org/release/9be1f819-d127-4410-a18b-f05c0597fdf8/37928797929-250.jpg",
+			"art": "http://coverartarchive.org/release/9be1f819-d127-4410-a18b-f05c0597fdf8/37928797929-500.jpg",
+			"mbJson": 0
+		},
+		{
+			"release_title": "Blossom Dearie",
+			"artist": "Blossom Dearie",
+			"release_year": "1957",
+			"mbid": "12d9211c-8e4e-46e1-b84f-bdf330707256",
+			"mbidJson": 40,
+			"thumbnail": "http://coverartarchive.org/release/12d9211c-8e4e-46e1-b84f-bdf330707256/16553915780-250.jpg",
+			"art": "http://coverartarchive.org/release/12d9211c-8e4e-46e1-b84f-bdf330707256/16553915780-500.jpg",
+			"mbJson": 0
+		},
+		{
+			"release_title": "Du Jazz dans le ravin",
+			"artist": "Serge Gainsbourg",
+			"release_year": "1958",
+			"mbidJson": 3,
+			"mbJson": 10,
+			"mbid": "976dbda1-c41e-4515-a31a-f5c153b3c6bf",
+			"thumbnail": "http://coverartarchive.org/release/976dbda1-c41e-4515-a31a-f5c153b3c6bf/1158210516-250.jpg",
+			"art": "http://coverartarchive.org/release/976dbda1-c41e-4515-a31a-f5c153b3c6bf/1158210516-500.jpg"
+		},
+		{
+			"release_title": "Things are Getting Better",
+			"artist": "Cannonball Adderley with Milt Jackson",
+			"release_year": "1958",
+			"mbidJson": 1,
+			"mbJson": 7,
+			"mbid": "814be108-b3cb-3aec-9dea-a7fbafa89255",
+			"thumbnail": "http://coverartarchive.org/release/814be108-b3cb-3aec-9dea-a7fbafa89255/4653945415-250.jpg",
+			"art": "http://coverartarchive.org/release/814be108-b3cb-3aec-9dea-a7fbafa89255/4653945415-500.jpg"
+		},
+		{
+			"release_title": "Porgy and Bess",
+			"artist": "Miles Davis Orchestra under the direction of Gil Evans",
+			"release_year": "1958",
+			"mbidJson": 1,
+			"mbJson": 1,
+			"mbid": "560672ad-eaed-4a51-8e9d-cdce56ac49b2",
+			"thumbnail": "http://coverartarchive.org/release/560672ad-eaed-4a51-8e9d-cdce56ac49b2/13528573039-250.jpg",
+			"art": "http://coverartarchive.org/release/560672ad-eaed-4a51-8e9d-cdce56ac49b2/13528573039-500.jpg"
+		},
+		{
+			"release_title": "At the Pershing",
+			"artist": "Ahmad Jamal",
+			"release_year": "1958",
+			"mbid": "5160292d-d90f-4aa2-a6c7-65c477925c19",
+			"mbidJson": 4,
+			"thumbnail": "http://coverartarchive.org/release/5160292d-d90f-4aa2-a6c7-65c477925c19/35420178636-250.jpg",
+			"art": "http://coverartarchive.org/release/5160292d-d90f-4aa2-a6c7-65c477925c19/35420178636-500.jpg",
+			"mbJson": 0
+		},
+		{
+			"release_title": "Somethin' Else",
+			"artist": "Julian Cannonball Adderley",
+			"release_year": "1958",
+			"mbid": "12c3ef02-0b5d-3350-968c-0af67a329ae0",
+			"mbidJson": 1,
+			"art": [
+				"http://coverartarchive.org/release/12c3ef02-0b5d-3350-968c-0af67a329ae0/4653822728-500.jpg",
+				null
+			],
+			"thumbnail": "http://coverartarchive.org/release/12c3ef02-0b5d-3350-968c-0af67a329ae0/4653822728-250.jpg",
+			"mbJson": 0
+		},
+		{
+			"release_title": "Things are Swingin'",
+			"artist": "Peggy Lee",
+			"release_year": "1958",
+			"mbidJson": 1,
+			"mbJson": 0,
+			"mbid": "5654ae90-ab68-4900-a1af-5f7cef9297f9",
+			"thumbnail": "http://coverartarchive.org/release/5654ae90-ab68-4900-a1af-5f7cef9297f9/29312401744-250.jpg",
+			"art": "http://coverartarchive.org/release/5654ae90-ab68-4900-a1af-5f7cef9297f9/29312401744-500.jpg"
+		},
+		{
+			"release_title": "Time Out",
+			"artist": "The Dave Brubeck Quartet",
+			"release_year": "1959",
+			"mbid": "411a7bd1-86ad-3c63-84be-b7cab350d9b8",
+			"mbidJson": 1,
+			"art": [
+				"http://coverartarchive.org/release/411a7bd1-86ad-3c63-84be-b7cab350d9b8/1347863629700-500.jpg",
+				null
+			],
+			"thumbnail": "http://coverartarchive.org/release/411a7bd1-86ad-3c63-84be-b7cab350d9b8/1347863629700-250.jpg",
+			"mbJson": 0
+		},
+		{
+			"release_title": "in San Francisco Live at the Jazz Workshop",
+			"artist": "The Cannonball Adderley Quintet featuring Nat Adderley",
+			"release_year": "1959",
+			"mbid": "5ba46ef5-af26-48d0-a07b-6ea438425412",
+			"mbidJson": 1,
+			"art": [
+				"http://coverartarchive.org/release/5ba46ef5-af26-48d0-a07b-6ea438425412/7893155168-500.jpg",
+				null
+			],
+			"thumbnail": "http://coverartarchive.org/release/5ba46ef5-af26-48d0-a07b-6ea438425412/7893155168-250.jpg",
+			"mbJson": 0
+		},
+		{
+			"release_title": "Everyday I Have the Blues",
+			"artist": "Joe Williams, Count Basie and his Orchestra",
+			"release_year": "1959",
+			"mbidJson": 3,
+			"mbJson": 0,
+			"mbid": "de2054c0-0882-4b1e-8ecf-0bfb8434a03f",
+			"thumbnail": "https://coverartarchive.org/release/de2054c0-0882-4b1e-8ecf-0bfb8434a03f/5530877326-250.jpg",
+			"art": "https://coverartarchive.org/release/de2054c0-0882-4b1e-8ecf-0bfb8434a03f/5530877326-500.jpg"
+		},
+		{
+			"release_title": "Encore of Golden Hits",
+			"artist": "The Platters",
+			"release_year": "1960",
+			"mbid": "4add6f2e-10ee-4dbb-8ebc-36b41667e954",
+			"mbidJson": 1,
+			"art": [
+				"https://coverartarchive.org/release/4add6f2e-10ee-4dbb-8ebc-36b41667e954/38647358468-500.jpg",
+				null
+			],
+			"thumbnail": "https://coverartarchive.org/release/4add6f2e-10ee-4dbb-8ebc-36b41667e954/38647358468-250.jpg",
+			"mbJson": 0
+		},
+		{
+			"release_title": "The Final Tour Live in Copenhagen",
+			"artist": "Miles Davis & Joh Coltrane",
+			"release_year": "1960",
+			"mbid": "78d472d6-322d-4e50-a88c-617946e28d37",
+			"mbidJson": 1,
+			"art": [
+				"http://coverartarchive.org/release/78d472d6-322d-4e50-a88c-617946e28d37/22704596514-500.jpg",
+				null
+			],
+			"thumbnail": "http://coverartarchive.org/release/78d472d6-322d-4e50-a88c-617946e28d37/22704596514-250.jpg",
+			"mbJson": 0
+		},
+		{
+			"release_title": "King of the Delta Blues Singers",
+			"artist": "Robert Johnson",
+			"release_year": "1961",
+			"mbidJson": 1,
+			"mbJson": 0,
+			"mbid": "fd4b02c2-a8dc-4bae-8d41-3953c5e9ae45",
+			"thumbnail": "http://coverartarchive.org/release/fd4b02c2-a8dc-4bae-8d41-3953c5e9ae45/16117941055-250.jpg",
+			"art": "http://coverartarchive.org/release/fd4b02c2-a8dc-4bae-8d41-3953c5e9ae45/16117941055-500.jpg"
+		},
+		{
+			"release_title": "Green Onions",
+			"artist": "Booke T. & The M.G.s",
+			"release_year": "1962",
+			"mbidJson": 3,
+			"mbJson": 0,
+			"mbid": "73780432-8e48-4e62-acec-53c26798c730",
+			"thumbnail": "http://coverartarchive.org/release/73780432-8e48-4e62-acec-53c26798c730/12335122271-250.jpg",
+			"art": "http://coverartarchive.org/release/73780432-8e48-4e62-acec-53c26798c730/12335122271-500.jpg"
+		},
+		{
+			"release_title": "Rare",
+			"artist": "John Coltrane Quartet",
+			"release_year": "1962",
+			"mbidJson": 1,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Jazz Workshop Revisited",
+			"artist": "Cannonball Adderley Sextet",
+			"release_year": "1962",
+			"mbid": "a698a3ed-5244-4367-81aa-3a891388b4f0",
+			"mbidJson": 1,
+			"art": [
+				"http://coverartarchive.org/release/a698a3ed-5244-4367-81aa-3a891388b4f0/15916573855-500.jpg",
+				null
+			],
+			"thumbnail": "http://coverartarchive.org/release/a698a3ed-5244-4367-81aa-3a891388b4f0/15916573855-250.jpg",
+			"mbJson": 0
+		},
+		{
+			"release_title": "With the Beatles (Beatlmania!)",
+			"artist": "The Beatles",
+			"release_year": "1963",
+			"mbid": "9a8df718-b441-37d5-b14e-060ef5052211",
+			"mbidJson": 1,
+			"art": [
+				"http://coverartarchive.org/release/9a8df718-b441-37d5-b14e-060ef5052211/2401609661-500.jpg",
+				null
+			],
+			"thumbnail": "http://coverartarchive.org/release/9a8df718-b441-37d5-b14e-060ef5052211/2401609661-250.jpg",
+			"mbJson": 0
+		},
+		{
+			"release_title": "Both Directions at Once The Lost release_title",
+			"artist": "John Coltrane",
+			"release_year": "1963",
+			"mbidJson": 4,
+			"mbJson": 0,
+			"mbid": "7742180f-3313-4bd1-a38b-f6b75d2f7d33",
+			"thumbnail": "http://coverartarchive.org/release/7742180f-3313-4bd1-a38b-f6b75d2f7d33/20334697147-250.jpg",
+			"art": "http://coverartarchive.org/release/7742180f-3313-4bd1-a38b-f6b75d2f7d33/20334697147-500.jpg"
+		},
+		{
+			"artist": "Charles Mingus",
+			"release_title": "Mingus Mingus Mingus Mingus",
+			"release_year": "1964",
+			"mbid": "70d13ec1-e731-3775-b70f-c1a2fb416828",
+			"mbidJson": 1,
+			"art": [
+				"http://coverartarchive.org/release/70d13ec1-e731-3775-b70f-c1a2fb416828/8878798092-500.jpg",
+				null
+			],
+			"mbJson": 0,
+			"thumbnail": "http://coverartarchive.org/release/70d13ec1-e731-3775-b70f-c1a2fb416828/8878798092-250.jpg"
+		},
+		{
+			"release_title": "12 X 5",
+			"artist": "The Rolling Stones",
+			"release_year": "1964",
+			"mbidJson": 3,
+			"mbJson": 0,
+			"mbid": "043575ed-a3a1-4a9e-be70-073901966207",
+			"thumbnail": "http://coverartarchive.org/release/043575ed-a3a1-4a9e-be70-073901966207/16848747953-250.jpg",
+			"art": "http://coverartarchive.org/release/043575ed-a3a1-4a9e-be70-073901966207/16848747953-500.jpg"
+		},
+		{
+			"release_title": "Bringing It All Back Home",
+			"artist": "Bob Dylan",
+			"release_year": "1965",
+			"mbidJson": 2,
+			"mbJson": 0,
+			"mbid": "67e7ab93-d5c1-442f-b8c0-dbfad52e2d34",
+			"thumbnail": "http://coverartarchive.org/release/67e7ab93-d5c1-442f-b8c0-dbfad52e2d34/13703123875-250.jpg",
+			"art": "http://coverartarchive.org/release/67e7ab93-d5c1-442f-b8c0-dbfad52e2d34/13703123875-500.jpg"
+		},
+		{
+			"release_title": "The Best of Mississippi John Hurt",
+			"artist": "Mississippi John Hurt",
+			"release_year": "1965",
+			"mbidJson": 1,
+			"mbJson": 0,
+			"mbid": "d11fea48-867f-470d-8e5a-98d58a175e78",
+			"thumbnail": "http://coverartarchive.org/release/d11fea48-867f-470d-8e5a-98d58a175e78/6106348331-250.jpg",
+			"art": "http://coverartarchive.org/release/d11fea48-867f-470d-8e5a-98d58a175e78/6106348331-500.jpg"
+		},
+		{
+			"release_title": "Highway 61 Revisited",
+			"artist": "Bob Dylan",
+			"release_year": "1965",
+			"mbidJson": 7,
+			"mbJson": 0,
+			"mbid": "263a8ba4-cbc2-4fbd-9aa3-1de457c717a1",
+			"thumbnail": "http://coverartarchive.org/release/263a8ba4-cbc2-4fbd-9aa3-1de457c717a1/11090135217-250.jpg",
+			"art": "http://coverartarchive.org/release/263a8ba4-cbc2-4fbd-9aa3-1de457c717a1/11090135217-500.jpg"
+		},
+		{
+			"release_title": "A Love Supreme",
+			"artist": "John Coltrane",
+			"release_year": "1965",
+			"mbidJson": 3,
+			"mbJson": 0,
+			"mbid": "77d06b99-117a-3ba3-8230-69361ad7be91",
+			"thumbnail": "http://coverartarchive.org/release/77d06b99-117a-3ba3-8230-69361ad7be91/5164611493-250.jpg",
+			"art": "http://coverartarchive.org/release/77d06b99-117a-3ba3-8230-69361ad7be91/5164611493-500.jpg"
+		},
+		{
+			"release_title": "True Story of Abner Jay",
+			"artist": "Abner Jay",
+			"release_year": "1965",
+			"mbidJson": 2,
+			"mbJson": 0,
+			"mbid": "8f9278a6-176e-476d-a101-9cf5fb190a40",
+			"thumbnail": "http://coverartarchive.org/release/8f9278a6-176e-476d-a101-9cf5fb190a40/6609823781-250.jpg",
+			"art": "http://coverartarchive.org/release/8f9278a6-176e-476d-a101-9cf5fb190a40/6609823781-500.jpg"
+		},
+		{
+			"release_title": "Man Walked on the Moon",
+			"artist": "Abner Jay",
+			"release_year": "1965",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Warm and Tender Soul",
+			"artist": "Percy Sledge",
+			"release_year": "1966",
+			"mbidJson": 1,
+			"mbJson": 0,
+			"mbid": "74616b40-4440-4fbb-8696-41272e6a09a8",
+			"thumbnail": "http://coverartarchive.org/release/74616b40-4440-4fbb-8696-41272e6a09a8/11483131603-250.jpg",
+			"art": "http://coverartarchive.org/release/74616b40-4440-4fbb-8696-41272e6a09a8/11483131603-500.jpg"
+		},
+		{
+			"release_title": "Four & More Recorded Live in Concert",
+			"artist": "Miles Davis",
+			"release_year": "1966",
+			"mbidJson": 1,
+			"mbJson": 0,
+			"mbid": "fc4c7684-3527-4e2c-b90d-8e29e421b7b2",
+			"thumbnail": "http://coverartarchive.org/release/fc4c7684-3527-4e2c-b90d-8e29e421b7b2/33896154895-250.jpg",
+			"art": "http://coverartarchive.org/release/fc4c7684-3527-4e2c-b90d-8e29e421b7b2/33896154895-500.jpg"
+		},
+		{
+			"release_title": "Between the Buttons",
+			"artist": "The Rolling Stones",
+			"release_year": "1967",
+			"mbidJson": 1,
+			"mbJson": 0,
+			"mbid": "638f6f31-cd4c-48b2-9e5e-8109d3b226f6",
+			"thumbnail": "http://coverartarchive.org/release/638f6f31-cd4c-48b2-9e5e-8109d3b226f6/18849765612-250.jpg",
+			"art": "http://coverartarchive.org/release/638f6f31-cd4c-48b2-9e5e-8109d3b226f6/18849765612-500.jpg"
+		},
+		{
+			"release_title": "The Best of Sonny & Cher",
+			"artist": "Sonny & Cher",
+			"release_year": "1967",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The Best of the Lovin' Spoonful",
+			"artist": "Lovin' Spoonful",
+			"release_year": "1967",
+			"mbidJson": 1,
+			"mbJson": 0,
+			"mbid": "9f4a06b3-37fd-4583-a16d-cab5f273c8bb",
+			"thumbnail": "http://coverartarchive.org/release/9f4a06b3-37fd-4583-a16d-cab5f273c8bb/15930099186-250.jpg",
+			"art": "http://coverartarchive.org/release/9f4a06b3-37fd-4583-a16d-cab5f273c8bb/15930099186-500.jpg"
+		},
+		{
+			"release_title": "The Early Ray Charles",
+			"artist": "Ray Charles",
+			"release_year": "1967",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The Soul of a Bell",
+			"artist": "William Bell",
+			"release_year": "1967",
+			"mbidJson": 1,
+			"mbJson": 0,
+			"mbid": "cd2ae654-6aa7-4322-a020-61890c4f6255",
+			"thumbnail": "http://coverartarchive.org/release/cd2ae654-6aa7-4322-a020-61890c4f6255/16546405903-250.jpg",
+			"art": "http://coverartarchive.org/release/cd2ae654-6aa7-4322-a020-61890c4f6255/16546405903-500.jpg"
+		},
+		{
+			"release_title": "Hip Hug-Her",
+			"artist": "Booker T. & the M.G.s",
+			"release_year": "1967",
+			"mbidJson": 1,
+			"mbJson": 0,
+			"mbid": "7c66a11a-17e7-47d4-9cac-624b1f0c14a6",
+			"thumbnail": "http://coverartarchive.org/release/7c66a11a-17e7-47d4-9cac-624b1f0c14a6/23038293695-250.jpg",
+			"art": "http://coverartarchive.org/release/7c66a11a-17e7-47d4-9cac-624b1f0c14a6/23038293695-500.jpg"
+		},
+		{
+			"release_title": "I Never Loved a Man the Way I Love You",
+			"artist": "Aretha Franklin",
+			"release_year": "1967",
+			"mbidJson": 1,
+			"mbJson": 0,
+			"mbid": "4b43b2a7-2cab-4f87-9a7e-dfc0913c39ab",
+			"thumbnail": "http://coverartarchive.org/release/4b43b2a7-2cab-4f87-9a7e-dfc0913c39ab/9245863212-250.jpg",
+			"art": "http://coverartarchive.org/release/4b43b2a7-2cab-4f87-9a7e-dfc0913c39ab/9245863212-500.jpg"
+		},
+		{
+			"release_title": "Sgt. Peppers Lonely Hearts Club Band",
+			"artist": "The Beatles",
+			"release_year": "1967",
+			"mbidJson": 1,
+			"mbJson": 0,
+			"mbid": "26d5e76b-1640-3883-887b-507e3a287116",
+			"thumbnail": "http://coverartarchive.org/release/26d5e76b-1640-3883-887b-507e3a287116/29715781347-250.jpg",
+			"art": "http://coverartarchive.org/release/26d5e76b-1640-3883-887b-507e3a287116/29715781347-500.jpg"
+		},
+		{
+			"release_title": "Sorcerer",
+			"artist": "Miles Davis",
+			"mbidJson": 1,
+			"mbJson": 0,
+			"release_year": "1967",
+			"mbid": "136f81ef-0481-4967-8fae-4668b4badfbe",
+			"thumbnail": "http://coverartarchive.org/release/136f81ef-0481-4967-8fae-4668b4badfbe/18691546171-250.jpg",
+			"art": "http://coverartarchive.org/release/136f81ef-0481-4967-8fae-4668b4badfbe/18691546171-500.jpg"
+		},
+		{
+			"artist": "Nina Simone",
+			"release_title": "Nina Simone Sings The Blues",
+			"release_year": "1967",
+			"mbidJson": 1,
+			"mbJson": 0,
+			"mbid": "188b2fcc-a505-4fbc-8cc6-8621256929ab",
+			"thumbnail": "http://coverartarchive.org/release/188b2fcc-a505-4fbc-8cc6-8621256929ab/20837457181-250.jpg",
+			"art": "http://coverartarchive.org/release/188b2fcc-a505-4fbc-8cc6-8621256929ab/20837457181-500.jpg"
+		},
+		{
+			"release_title": "For the Sake of the Song",
+			"artist": "Townes Van Zandt",
+			"release_year": "1968",
+			"mbidJson": 1,
+			"mbJson": 0,
+			"mbid": "0500c425-43b8-3913-bcb5-e4855a11263f",
+			"thumbnail": "https://coverartarchive.org/release/0500c425-43b8-3913-bcb5-e4855a11263f/18741456192-250.jpg",
+			"art": "https://coverartarchive.org/release/0500c425-43b8-3913-bcb5-e4855a11263f/18741456192-500.jpg"
+		},
+		{
+			"release_title": "Electric Ladyland",
+			"artist": "Jimi Hendrix",
+			"release_year": "1968",
+			"mbidJson": 1,
+			"mbJson": 0,
+			"mbid": "dbb92a01-1021-4da7-a6d5-1efbd4dbd181",
+			"thumbnail": "http://coverartarchive.org/release/dbb92a01-1021-4da7-a6d5-1efbd4dbd181/37575941105-250.jpg",
+			"art": "http://coverartarchive.org/release/dbb92a01-1021-4da7-a6d5-1efbd4dbd181/37575941105-500.jpg"
+		},
+		{
+			"artist": "Traffic",
+			"release_title": "Traffic",
+			"release_year": "1968",
+			"mbidJson": 1,
+			"mbJson": 0,
+			"mbid": "5414db91-00db-3fb8-8fb6-4d1dc7299529",
+			"thumbnail": "http://coverartarchive.org/release/5414db91-00db-3fb8-8fb6-4d1dc7299529/21619640953-250.jpg",
+			"art": "http://coverartarchive.org/release/5414db91-00db-3fb8-8fb6-4d1dc7299529/21619640953-500.jpg"
+		},
+		{
+			"release_title": "Oriental Jazz",
+			"artist": "Lloyd Miller",
+			"release_year": "1968",
+			"mbidJson": 1,
+			"mbJson": 0,
+			"mbid": "a57a950d-4f73-45d8-9ed4-545c62015c8f",
+			"thumbnail": "http://coverartarchive.org/release/a57a950d-4f73-45d8-9ed4-545c62015c8f/27313527141-250.jpg",
+			"art": "http://coverartarchive.org/release/a57a950d-4f73-45d8-9ed4-545c62015c8f/27313527141-500.jpg"
+		},
+		{
+			"release_title": "Taj Mahal",
+			"artist": "Taj Mahal",
+			"release_year": "1968",
+			"mbidJson": 1,
+			"mbJson": 0,
+			"mbid": "0047393a-1ce9-32c0-8af5-1a378c88b551",
+			"thumbnail": "http://coverartarchive.org/release/0047393a-1ce9-32c0-8af5-1a378c88b551/10046342990-250.jpg",
+			"art": "http://coverartarchive.org/release/0047393a-1ce9-32c0-8af5-1a378c88b551/10046342990-500.jpg"
+		},
+		{
+			"release_title": "Action!",
+			"artist": "Desmond Dekker and the Aces",
+			"release_year": "1968",
+			"mbidJson": 1,
+			"mbJson": 0,
+			"mbid": "519f359c-388e-4354-88c4-8894c62bada1",
+			"thumbnail": "http://coverartarchive.org/release/519f359c-388e-4354-88c4-8894c62bada1/33766083995-250.jpg",
+			"art": "http://coverartarchive.org/release/519f359c-388e-4354-88c4-8894c62bada1/33766083995-500.jpg"
+		},
+		{
+			"release_title": "Aretha Now",
+			"artist": "Aretha Franklin",
+			"release_year": "1968",
+			"mbidJson": 1,
+			"mbJson": 0,
+			"mbid": "f5ebf6cf-830a-4f3e-ba83-e6f7bbfd5fec",
+			"thumbnail": "http://coverartarchive.org/release/f5ebf6cf-830a-4f3e-ba83-e6f7bbfd5fec/10556248258-250.jpg",
+			"art": "http://coverartarchive.org/release/f5ebf6cf-830a-4f3e-ba83-e6f7bbfd5fec/10556248258-500.jpg"
+		},
+		{
+			"release_title": "To Russel, My Brother, Whom i Slept With",
+			"artist": "Bill Cosby",
+			"release_year": "1968",
+			"mbidJson": 1,
+			"mbJson": 0,
+			"mbid": "dc3c4031-5518-4981-8733-1b7dab55fbf2",
+			"thumbnail": "http://coverartarchive.org/release/dc3c4031-5518-4981-8733-1b7dab55fbf2/19490067960-250.jpg",
+			"art": "http://coverartarchive.org/release/dc3c4031-5518-4981-8733-1b7dab55fbf2/19490067960-500.jpg"
+		},
+		{
+			"release_title": "Everybody Knows this is Nowhere",
+			"artist": "Neil Young with Crazy Horse",
+			"release_year": "1969",
+			"mbidJson": 1,
+			"mbJson": 0,
+			"mbid": "41cbba2c-4e25-468d-8d8f-8a584d7fd701",
+			"thumbnail": "http://coverartarchive.org/release/41cbba2c-4e25-468d-8d8f-8a584d7fd701/6187784066-250.jpg",
+			"art": "http://coverartarchive.org/release/41cbba2c-4e25-468d-8d8f-8a584d7fd701/6187784066-500.jpg"
+		},
+		{
+			"release_title": "Left My Blues In San Francisco",
+			"artist": "Buddy Guy",
+			"release_year": "1969",
+			"mbidJson": 1,
+			"mbJson": 0,
+			"mbid": "cf0ebf39-dcdd-4405-bca3-e910d406bc4f",
+			"thumbnail": "http://coverartarchive.org/release/cf0ebf39-dcdd-4405-bca3-e910d406bc4f/16078420486-250.jpg",
+			"art": "http://coverartarchive.org/release/cf0ebf39-dcdd-4405-bca3-e910d406bc4f/16078420486-500.jpg"
+		},
+		{
+			"release_title": "After the Rain",
+			"artist": "Muddy Waters",
+			"release_year": "1969",
+			"mbidJson": 1,
+			"mbJson": 0,
+			"mbid": "ece11094-6655-4ff8-aa94-5e9bf0d06468",
+			"thumbnail": "http://coverartarchive.org/release/ece11094-6655-4ff8-aa94-5e9bf0d06468/8120398891-250.jpg",
+			"art": "http://coverartarchive.org/release/ece11094-6655-4ff8-aa94-5e9bf0d06468/8120398891-500.jpg"
+		},
+		{
+			"release_title": "Smash Hits",
+			"artist": "Jimi Hendrix",
+			"release_year": "1969",
+			"mbidJson": 1,
+			"mbJson": 0,
+			"mbid": "88492aee-b55a-4bd3-a5ac-b34142394a2f",
+			"thumbnail": "http://coverartarchive.org/release/88492aee-b55a-4bd3-a5ac-b34142394a2f/8517691536-250.jpg",
+			"art": "http://coverartarchive.org/release/88492aee-b55a-4bd3-a5ac-b34142394a2f/8517691536-500.jpg"
+		},
+		{
+			"release_title": "Let it Bleed",
+			"artist": "Rolling Stones",
+			"release_year": "1969",
+			"mbidJson": 1,
+			"mbJson": 0,
+			"mbid": "739dce81-ed70-4ebc-8ae5-607f1fbcebf6",
+			"thumbnail": "http://coverartarchive.org/release/739dce81-ed70-4ebc-8ae5-607f1fbcebf6/31096071078-250.jpg",
+			"art": "http://coverartarchive.org/release/739dce81-ed70-4ebc-8ae5-607f1fbcebf6/31096071078-500.jpg"
+		},
+		{
+			"release_title": "Aoxomoxoa",
+			"artist": "Grateful Dead",
+			"release_year": "1969",
+			"mbidJson": 1,
+			"mbJson": 0,
+			"mbid": "0ae9310c-105b-4d8f-9231-3c2d2e79a93d",
+			"thumbnail": "http://coverartarchive.org/release/0ae9310c-105b-4d8f-9231-3c2d2e79a93d/33592800372-250.jpg",
+			"art": "http://coverartarchive.org/release/0ae9310c-105b-4d8f-9231-3c2d2e79a93d/33592800372-500.jpg"
+		},
+		{
+			"release_title": "De Ole Folks at Home",
+			"artist": "Taj Mahal",
+			"release_year": "1969",
+			"mbidJson": 1,
+			"mbJson": 0,
+			"mbid": "5ad57b19-c9be-4609-b394-cf479308dac7",
+			"thumbnail": "http://coverartarchive.org/release/5ad57b19-c9be-4609-b394-cf479308dac7/35613332032-250.jpg",
+			"art": "http://coverartarchive.org/release/5ad57b19-c9be-4609-b394-cf479308dac7/35613332032-500.jpg"
+		},
+		{
+			"release_title": "Giant Step",
+			"artist": "Taj Mahal",
+			"release_year": "1969",
+			"mbidJson": 2,
+			"mbJson": 0,
+			"mbid": "5ad57b19-c9be-4609-b394-cf479308dac7",
+			"thumbnail": "http://coverartarchive.org/release/5ad57b19-c9be-4609-b394-cf479308dac7/35613332032-250.jpg",
+			"art": "http://coverartarchive.org/release/5ad57b19-c9be-4609-b394-cf479308dac7/35613332032-500.jpg"
+		},
+		{
+			"artist": "Frank Zappa",
+			"release_title": "Hot Rats",
+			"release_year": "1969",
+			"mbidJson": 1,
+			"mbJson": 0,
+			"mbid": "6327a725-8554-4900-a268-bdba3cb03169",
+			"thumbnail": "http://coverartarchive.org/release/6327a725-8554-4900-a268-bdba3cb03169/11263298625-250.jpg",
+			"art": "http://coverartarchive.org/release/6327a725-8554-4900-a268-bdba3cb03169/11263298625-500.jpg"
+		},
+		{
+			"release_title": "The Memphis Record",
+			"artist": "Elvis Presley",
+			"release_year": "1969",
+			"mbidJson": 1,
+			"mbJson": 0,
+			"mbid": "0a8c1f28-18a2-43ce-bf03-361372d8fde5",
+			"thumbnail": "http://coverartarchive.org/release/0a8c1f28-18a2-43ce-bf03-361372d8fde5/35531273394-250.jpg",
+			"art": "http://coverartarchive.org/release/0a8c1f28-18a2-43ce-bf03-361372d8fde5/35531273394-500.jpg"
+		},
+		{
+			"release_title": "Nashville Skyline",
+			"artist": "Bob Dylan",
+			"release_year": "1969",
+			"mbidJson": 1,
+			"mbJson": 0,
+			"mbid": "33be9ca6-eb95-44bc-874b-41d8392c53ee",
+			"thumbnail": "http://coverartarchive.org/release/33be9ca6-eb95-44bc-874b-41d8392c53ee/10966419863-250.jpg",
+			"art": "http://coverartarchive.org/release/33be9ca6-eb95-44bc-874b-41d8392c53ee/10966419863-500.jpg"
+		},
+		{
+			"release_title": "At San Quentin",
+			"artist": "Johnny Cash",
+			"release_year": "1969",
+			"mbidJson": 2,
+			"mbJson": 0,
+			"mbid": "04ecd025-212b-4c08-a83f-a9f1008a7fa1",
+			"thumbnail": "http://coverartarchive.org/release/04ecd025-212b-4c08-a83f-a9f1008a7fa1/23403416869-250.jpg",
+			"art": "http://coverartarchive.org/release/04ecd025-212b-4c08-a83f-a9f1008a7fa1/23403416869-500.jpg"
+		},
+		{
+			"release_title": "The Best of Nina Simone",
+			"artist": "Nina Simone",
+			"release_year": "1970",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Piano Improvisations Vol 1",
+			"artist": "Chick Corea",
+			"release_year": "1970",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Tumbleweed Connection",
+			"artist": "Elton John",
+			"release_year": "1970",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Plastic Ono Band",
+			"artist": "John Lennon",
+			"release_year": "1970",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "New Morning",
+			"artist": "Bob Dylan",
+			"release_year": "1970",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Workingman's Dead",
+			"artist": "Grateful Dead",
+			"release_year": "1970",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Live!",
+			"artist": "Fela Ransome-Kuti and The AFRICA '70 with Ginger Baker",
+			"release_year": "1970",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"artist": "Santana",
+			"release_title": "Abraxas",
+			"release_year": "1970",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Carnegie Hall",
+			"artist": "Neil Young",
+			"release_year": "1970",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Osmium",
+			"artist": "Parliament",
+			"release_year": "1970",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The Best of Mose Allison",
+			"artist": "Mose Allison",
+			"release_year": "1970",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "After the Gold Rush",
+			"artist": "Neil Young",
+			"release_year": "1970",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "American Woman",
+			"artist": "The Guess Who",
+			"release_year": "1970",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"artist": "Miles Davis",
+			"release_title": "Fearless Live at the Fillmore East",
+			"release_year": "1970",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "McLemore Avenue",
+			"artist": "Booker T. & the M.G.s",
+			"release_year": "1970",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The BBC Session Recordings",
+			"artist": "The Faces",
+			"release_year": "1970",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "His Band and the Street Choir",
+			"artist": "Van Morrison",
+			"release_year": "1970",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "I am the Blues",
+			"artist": "Willie Dixon",
+			"release_year": "1970",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "A Nod is as Good as a Wink to a Blind Horse",
+			"artist": "Faces",
+			"release_year": "1971",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The Low Spark of High Heeled Boys",
+			"artist": "Traffic",
+			"release_year": "1971",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Greatest Hits",
+			"artist": "Herb Alpert & the Tijuana Brass",
+			"release_year": "1970",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The Silver Tongued Devil and I",
+			"artist": "Kris Kristofferson",
+			"release_year": "1971",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Imagine",
+			"artist": "John Lennon",
+			"release_year": "1971",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Madman Across the Water",
+			"artist": "Elton John",
+			"release_year": "1971",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"artist": "Grateful Dead",
+			"release_title": "Grateful Dead (Skull & Roses)",
+			"release_year": "1971",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Champions (from the Complete Jack Johnson Sessions)",
+			"artist": "Miles Davis",
+			"release_year": "1971",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Ndikho Xaba and the Natives",
+			"artist": "Ndikho Xaba and the Natives",
+			"release_year": "1971",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Hot Rocks",
+			"artist": "The Rolling Stones",
+			"release_year": "1971",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Sticky Fingers",
+			"artist": "The Rolling Stones",
+			"release_year": "1971",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Led Zeppelin IV",
+			"artist": "Led Zeppelin",
+			"release_year": "1971",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The Allman Brothers Band at Fillmore East",
+			"artist": "The Allman Brothers Band",
+			"release_year": "1971",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "There's a Riot Goin On",
+			"artist": "Sly and the Family Stone",
+			"release_year": "1971",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Tarkus",
+			"artist": "Emerson, Lake & Palmer",
+			"release_year": "1971",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Emerson Lake & Palmer",
+			"artist": "Emerson Lake & Palmer",
+			"release_year": "1971",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Maggot Brain",
+			"artist": "Funkadelic",
+			"release_year": "1971",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Fragile",
+			"artist": "Yes",
+			"release_year": "1972",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Saint Dominic's Preview",
+			"artist": "Van Morrison",
+			"release_year": "1972",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Sail Away",
+			"artist": "Randy Newman",
+			"release_year": "1972",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Honky Château",
+			"artist": "Elton John",
+			"release_year": "1972",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Clear Spot",
+			"artist": "Captain Beefheart and the Magic Band",
+			"release_year": "1972",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Energy Control Center",
+			"artist": "The Lightmen Plus One",
+			"release_year": "1972",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "On the Corner",
+			"artist": "Miles Davis",
+			"release_year": "1972",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Turnaround (From the Complete On The Corner Sessions)",
+			"artist": "Miles Davis",
+			"release_year": "1972",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Turnaround Rare Miles from the Complete On the Corner Sessions",
+			"artist": "Miles Davis",
+			"release_year": "1972",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Might as Well: A Round Records Perspective",
+			"artist": "Jerry Garcia",
+			"release_year": "1972",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Laugh To Keep From Crying",
+			"artist": "Nat Turner Rebellion",
+			"release_year": "1972",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+			"artist": "David Bowie",
+			"release_year": "1972",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Trilogy",
+			"artist": "Emerson, Lake & Palmer",
+			"release_year": "1972",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Tales From the Topographic Oceans",
+			"artist": "Yes",
+			"release_year": "1973",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"mbidJson": 0
+		},
+		{
+			"release_title": "The Best of B.B. King",
+			"artist": "B.B. King",
+			"release_year": "1973",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Honky Tonk Heroes",
+			"artist": "Waylon Jennings",
+			"release_year": "1973",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Abandoned Luncheonette",
+			"artist": "Daryl Hall & John Oates",
+			"release_year": "1973",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Mind Games",
+			"artist": "John Lennon",
+			"release_year": "1973",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "We're an American Band",
+			"artist": "Grand Funk",
+			"release_year": "1973",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Over-Nite Sensation",
+			"artist": "Frank Zappa and The Mothers",
+			"release_year": "1973",
+			"mbidJson": 0
+		},
+		{
+			"release_title": "Soul Makosa",
+			"artist": "Lafayette Afro-Rock Band",
+			"release_year": "1973",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Houses of the Holy",
+			"artist": "Led Zeppelin",
+			"release_year": "1973",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The Classic Performances of Miles Davis",
+			"artist": "Miles Davis",
+			"release_year": "1973",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "A Little Touch of Schmilsson in the Night",
+			"artist": "Harry Nillson",
+			"release_year": "1973",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Dark Side of the Moon",
+			"artist": "Pink Floyd",
+			"release_year": "1973",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The Lost Paramount Tapes",
+			"artist": "James Booker",
+			"release_year": "1973",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Etta James",
+			"artist": "Etta James",
+			"release_year": "1973",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Brain Salad Surgery",
+			"artist": "Emerson, Lake & Palmer",
+			"release_year": "1973",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Golden Gate Groove The Sound of Philadelphia Live in San Francisco 1973",
+			"artist": "Various Artists",
+			"release_year": "1973",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Head Hunters",
+			"artist": "Herbie Hancock",
+			"release_year": "1973",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Don't Shoot Me I'm Only the Piano Player",
+			"artist": "Elton John",
+			"release_year": "1973",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Ship Ohoy",
+			"artist": "The O'Jays",
+			"release_year": "1973",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Catalyst",
+			"artist": "Willie Dixon",
+			"release_year": "1973",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Call Me",
+			"artist": "Al Green",
+			"release_year": "1973",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The Smoker You Drink, The Player You Get",
+			"artist": "Joe Walsh",
+			"release_year": "1973",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Catch a Fire",
+			"artist": "Bob Marley & The Wailers",
+			"release_year": "1973",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The Way We Were",
+			"artist": "Barbara Streisand",
+			"release_year": "1974",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Watchout!",
+			"artist": "Wells Fargo",
+			"release_year": "1974",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Blood on the Tracks",
+			"artist": "Bob Dylan",
+			"release_year": "1974",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Batsumi",
+			"artist": "Batsumi",
+			"release_year": "1974",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Veedon Fleece",
+			"artist": "Van Morrison",
+			"release_year": "1974",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Apostrophe'",
+			"artist": "Frank Zappa",
+			"release_year": "1974",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The Ramblin' Man",
+			"artist": "Waylon Jennings",
+			"release_year": "1974",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "On the Beach",
+			"artist": "Neil Young",
+			"release_year": "1974",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "More Blood, More Tracks The Bootleg Series Vol 14",
+			"artist": "Bob Dylan",
+			"release_year": "1974",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Natty Dread",
+			"artist": "Bob Marley & The Wailers",
+			"release_year": "1974",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "I Got What it Takes",
+			"artist": "Koko Tayler",
+			"release_year": "1975",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Daryl Hall & John Oates",
+			"artist": "Daryl Hall & John Oates",
+			"release_year": "1975",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Good Old Boys",
+			"artist": "Randy Newman",
+			"release_year": "1975",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "A Night at the Opera",
+			"artist": "Queen",
+			"release_year": "1975",
+			"mbidJson": 6,
+			"mbJson": 0,
+			"mbid": "e3ca0eae-e42b-497a-b950-af94dca1b2bf"
+		},
+		{
+			"release_title": "Man-Child",
+			"artist": "Herbie Hancock",
+			"release_year": "1975",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Captain Fantastic and the Brown Dirt Cowboy",
+			"artist": "Elton John",
+			"release_year": "1975",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Young Americans",
+			"artist": "David Bowie",
+			"release_year": "1975",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "One Size Fits All",
+			"artist": "Frank Zappa and The Mothers of Invention",
+			"release_year": "1975",
+			"mbidJson": 0
+		},
+		{
+			"release_title": "Get It! Heavy Funk and Classic Breaks",
+			"artist": "Various Artists",
+			"release_year": "1975",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Fandango!",
+			"artist": "ZZ Top",
+			"release_year": "1975",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The Basement Tapes",
+			"artist": "Bob Dylan and The Band",
+			"release_year": "1975",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "In the Slot",
+			"artist": "Tower of Power",
+			"release_year": "1975",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Abbey Road",
+			"artist": "The Beatles",
+			"release_year": "1975",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Old & In The Way",
+			"artist": "Old & In The Way",
+			"release_year": "1975",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Windsong",
+			"artist": "Johnn Denver",
+			"release_year": "1975",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Witchdoctor's Son",
+			"artist": "Okay Temiz & Johnny Dyani",
+			"release_year": "1976",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The Apartment",
+			"artist": "Dexter Gordon Quartet",
+			"release_year": "1976",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Live & Dangerous Boston 1976",
+			"artist": "Peter Tosh",
+			"release_year": "1976",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The Modern Lovers",
+			"artist": "The Modern Lovers",
+			"release_year": "1976",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Jonathan Richman & The Modern Lovers",
+			"artist": "Jonathan Richman & The Modern Lovers",
+			"release_year": "1976",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Songs from the Astral Plane a Tribute to Jonathan Richman and the Modern Lovers",
+			"artist": "Various Artists",
+			"release_year": "1976",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Changes One",
+			"artist": "David Bowie",
+			"release_year": "1976",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Desire",
+			"artist": "Bob Dylan",
+			"release_year": "1976",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Songs in the Key of Life",
+			"artist": "Stevie Wonder",
+			"release_year": "1976",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Station to Station",
+			"artist": "David Bowie",
+			"release_year": "1976",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Live at Montreux",
+			"artist": "Sun Ra & His Arkestra",
+			"release_year": "1976",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Free Yourself",
+			"artist": "Experience Unlimited",
+			"release_year": "1977",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Foreigner",
+			"artist": "Foreigner",
+			"release_year": "1977",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Works",
+			"artist": "Emerson Lake & Palmer",
+			"release_year": "1977",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Welcome to Zamrock! Vol 1",
+			"artist": "Various Artists",
+			"release_year": "1977",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "V.S.O.P.",
+			"artist": "Herbie Hancock",
+			"release_year": "1977",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Animals",
+			"artist": "Pink Floyd",
+			"release_year": "1977",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Homecoming Live at the Village Vanguard",
+			"artist": "Dexter Gordon",
+			"release_year": "1977",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Works",
+			"artist": "Emerson, Lake & Palmer",
+			"release_year": "1977",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Heroes",
+			"artist": "David Bowie",
+			"release_year": "1977",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Summertime Dream",
+			"artist": "Gordon Lightfoot",
+			"release_year": "1976",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Excitable Boy",
+			"artist": "Warren Zevon",
+			"release_year": "1978",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Comes a Time",
+			"artist": "Neil Young",
+			"release_year": "1978",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Fresh Fish Special",
+			"artist": "Robert Gordon w/ Link Wray",
+			"release_year": "1978",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Some Girls",
+			"artist": "The Rolling Stones",
+			"release_year": "1978",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Fleetwood Mac",
+			"artist": "Fleetwood Mac",
+			"release_year": "1978",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Corea/Hancock",
+			"artist": "Chick Corea, Herbie Hancock",
+			"release_year": "1978",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Van Halen",
+			"artist": "Van Halen",
+			"release_year": "1978",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Bee Gees Greatest",
+			"artist": "Bee Gees",
+			"release_year": "1979",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "No Nukes",
+			"artist": "Various Artists",
+			"release_year": "1979",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Breakfast in America",
+			"artist": "Supertramp",
+			"release_year": "1979",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Bad Girls",
+			"artist": "Donna Summer",
+			"release_year": "1979The B-52s",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The B-52's",
+			"artist": "The B-52's",
+			"release_year": "1979",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Voices",
+			"artist": "Daryl Hall, John Oates",
+			"release_year": "1980",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Mr. Hands",
+			"artist": "Herbie Hancock",
+			"release_year": "1980",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The River",
+			"artist": "Bruce Springsteen",
+			"release_year": "1980",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Double Fantasy",
+			"artist": "John Lennon, Yoko Ono",
+			"release_year": "1980",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "I Don't Remember (Single)",
+			"artist": "Peter Gabriel",
+			"release_year": "1980",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Uprising",
+			"artist": "Bob Marley & The Wailers",
+			"release_year": "1980",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Scary Monsters",
+			"artist": "David Bowie",
+			"release_year": "1980",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Los Angeles",
+			"artist": "X",
+			"release_year": "1980",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Women and Children First",
+			"artist": "Van HAlen",
+			"release_year": "1980",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Don't Say No",
+			"artist": "Billy Squire",
+			"release_year": "1981",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Live in Lesotho",
+			"artist": "Hugh Masekela & Company",
+			"release_year": "1981",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Black-President",
+			"artist": "Fela Kuti",
+			"release_year": "1981",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Rio",
+			"artist": "Duran Duran",
+			"release_year": "1982",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Quartet",
+			"artist": "Herbie Hancock",
+			"release_year": "1982",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Scream",
+			"artist": "Michael Jackson",
+			"release_year": "1982",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Lonesome Prison Blues Oregon State Prison May 5, 1982",
+			"artist": "Jery Garcia",
+			"release_year": "1982",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Confrontation",
+			"artist": "Bob Marley & The Wailers",
+			"release_year": "1983",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Synchronicity",
+			"artist": "The Police",
+			"release_year": "1983",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "She's So Unusual",
+			"artist": "Cyndi Lauper",
+			"release_year": "1983",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Infidels",
+			"artist": "Bob Dylan",
+			"release_year": "1983",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Jokerman (Single)",
+			"artist": "Bob Dylan",
+			"release_year": "1983",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Everybody's Rockin",
+			"artist": "Neil Young and the Shocking Pinks",
+			"release_year": "1983",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Like a Virgin",
+			"artist": "Madonna",
+			"release_year": "1984",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Heartbeat City",
+			"artist": "The Cars",
+			"release_year": "1984",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "1984",
+			"artist": "Van Halen",
+			"release_year": "1984",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Into the Gap",
+			"artist": "Thompson Twins",
+			"release_year": "1984",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "No Jacket Required",
+			"artist": "Phil Collins",
+			"release_year": "1985",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Whitney Houston",
+			"artist": "Whitney Houston",
+			"release_year": "1985",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Can't Hold Back",
+			"artist": "Eddie Money",
+			"release_year": "1986",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Inside the Light World Sun Ra Meets the OVC",
+			"artist": "Sun Ra",
+			"release_year": "1986",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Garcia Live Volume 14 January 27th 1986",
+			"artist": "Jerry Garcia, John Kahn",
+			"release_year": "1986",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Hold On",
+			"artist": "Nitty Gritty Dirt Band",
+			"release_year": "1987",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Modern Lovers 88",
+			"artist": "Jonathan Richman And The Modern Lovers",
+			"release_year": "1988",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Space Wrangler",
+			"artist": "Widespread Panic",
+			"release_year": "1988",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Heart Shaped World",
+			"artist": "Chris Isaak",
+			"release_year": "1989",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "3 Feet High and Rising",
+			"artist": "De La Soul",
+			"release_year": "1989",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Planet (Single)",
+			"artist": "The Sugarcubes",
+			"release_year": "1989",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Doolittle",
+			"artist": "The Pixies",
+			"release_year": "1989",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Ween at the Cat's Cradle",
+			"artist": "Ween",
+			"release_year": "1992",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Ready or Not",
+			"artist": "Grateful Dead",
+			"release_year": "1992 1993 1994 1995",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The Bis-Quits",
+			"artist": "The Bis-Quits",
+			"release_year": "1993",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "There's Nothing Wrong with Love",
+			"artist": "Built to Spill",
+			"release_year": "1995",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Ahora Me Da Pena",
+			"artist": "Buena Vista Social Club",
+			"release_year": "1996",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Tremble Under Boom Lights",
+			"artist": "Jonathan Fire Eater",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The Twilight Reeling",
+			"artist": "Lou Reed",
+			"release_year": "1996",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Beautiful Freak",
+			"artist": "Eels",
+			"release_year": "1996",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Odelay",
+			"artist": "Beck",
+			"release_year": "1996",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Zaireeka",
+			"artist": "The Flaming Lips",
+			"release_year": "1997",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "In The Aeroplane over the Sea",
+			"artist": "Neutral Milk Hotel",
+			"release_year": "1997",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Dig Me Out",
+			"artist": "Sleater Kinnney",
+			"release_year": "1997",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The Soft Bulletin",
+			"artist": "The Flaming Lips",
+			"release_year": "1999",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "TheSoft Bulletin Companion",
+			"artist": "The Flaming Lips",
+			"release_year": "1999",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "White Blood Cells",
+			"artist": "The White Stripes",
+			"release_year": "2001",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Discovery",
+			"artist": "Daft Punk",
+			"release_year": "2001",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Black & White release_title",
+			"artist": "The Walkmen",
+			"release_year": "2001",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Live at Beachland Tavern March 31, 2002",
+			"artist": "The Black Keys",
+			"release_year": "2002",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Peach Picks Cream of the Crop 2003",
+			"artist": "The Allman Brothers Band",
+			"release_year": "2003",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Tour De France Soundtracks",
+			"artist": "Kraftwerk",
+			"release_year": "2003",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Unoriginal Artists",
+			"artist": "Boise Cover Band",
+			"release_year": "2003",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Bows + Arrows",
+			"artist": "The Walkmen",
+			"release_year": "2004",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Bows + Arrows (Deluxe Edition)",
+			"artist": "The Walkmen",
+			"release_year": "2004",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "At War With The Mystics",
+			"artist": "The Flaming Lips",
+			"release_year": "2006",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Frank Black Live 2006",
+			"artist": "Frank Black",
+			"release_year": "2006",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Return to Cookie Mountain",
+			"artist": "TV On The Radio",
+			"release_year": "2006",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Everything All The Time",
+			"artist": "Band of Horses",
+			"release_year": "2006",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Sound of Silver",
+			"artist": "LCD Soundsystem",
+			"release_year": "2007",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "You in Reverse",
+			"artist": "Built to Spill",
+			"release_year": "2007",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Pride",
+			"artist": "Phosphorescent",
+			"release_year": "2007",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Fleet Foxes",
+			"artist": "Fleet Foxes",
+			"release_year": "2008",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Thing of the Past",
+			"artist": "Vetiver",
+			"release_year": "2008",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "War Elephant",
+			"artist": "Deer Tick",
+			"release_year": "2008Devotion",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Devotion",
+			"artist": "Beach House",
+			"release_year": "2008",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Furr",
+			"artist": "Blitzen Trapper",
+			"release_year": "2008",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Evil Urges",
+			"artist": "My Morning Jacket",
+			"release_year": "2008",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Bitte Orca",
+			"artist": "Dirty Projectors",
+			"release_year": "2009",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The Hazards of Love",
+			"artist": "The Decemberists",
+			"release_year": "2009",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Born on Flag Day",
+			"artist": "Deer Tick",
+			"release_year": "2009",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Lisbon",
+			"artist": "The Walkmen",
+			"release_year": "2010",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The Black Dirt Sessions",
+			"artist": "Deer Tick",
+			"release_year": "2010",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Divine Providence",
+			"artist": "Deer Tick",
+			"release_year": "2011",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Bon Iver",
+			"artist": "Bon Iver",
+			"release_year": "2011",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Mount Wittenberg Orca",
+			"artist": "Dirty Projectors + Bjork",
+			"release_year": "2011",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Divine Providence (11th Anniversary Edition)",
+			"artist": "Deer Tick",
+			"release_year": "2011",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Middle Brother (Limited Edition 10\")",
+			"artist": "Middle Brother",
+			"release_year": "2011",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The Bravest Man in the Universe",
+			"artist": "Bobby Womack",
+			"release_year": "2012",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Red",
+			"artist": "Taylor Swift",
+			"release_year": "2012",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Signs & Signifiers",
+			"artist": "JD McPherson",
+			"release_year": "2012",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Red (Taylor's Version)",
+			"artist": "Taylor Swift",
+			"release_year": "2012",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Boys & Girls",
+			"artist": "Alabama Shakes",
+			"release_year": "2012",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Lonesome Dreams",
+			"artist": "Lord Huron",
+			"release_year": "2012",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Muchado",
+			"artist": "Phosphorescent",
+			"release_year": "2013",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Shovels & Rope",
+			"artist": "Shovels & Rope",
+			"release_year": "2013",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Negativity",
+			"artist": "Deer Tick",
+			"release_year": "2013",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Good Evil Alchemy",
+			"artist": "The Brooklyn Attractors",
+			"release_year": "2014",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "1989 (Taylor's Version)",
+			"artist": "Taylor Swift",
+			"release_year": "2014",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Under Cover of Official Right",
+			"artist": "Protomartyr",
+			"release_year": "2014",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "1989",
+			"artist": "Taylor Swift",
+			"release_year": "2014",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The Daptone Super Soul Revue Live at the Apollo",
+			"artist": "Various Artists",
+			"release_year": "2014",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "seeds",
+			"artist": "TV On The Radio",
+			"release_year": "2014",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Lazaretto",
+			"artist": "Jack White",
+			"release_year": "2014",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Lost in the Dream",
+			"artist": "The War on Drugs",
+			"release_year": "2014",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Bob Dylan in the 80's",
+			"artist": "Various Artists",
+			"release_year": "2014",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Gon' Boogaloo",
+			"artist": "C.W. Stoneking",
+			"release_year": "2014",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Salad Days",
+			"artist": "Mac Demarco",
+			"release_year": "2014",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Black Hours",
+			"artist": "Hamilton Leithauser",
+			"release_year": "2014",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Small Town Heroes",
+			"artist": "Hurray for the Riff Raff",
+			"release_year": "2014",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Cosmetics",
+			"artist": "Diamond Rugs",
+			"release_year": "2015",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Live at the Music Hall",
+			"artist": "Phosphorescent",
+			"release_year": "2015",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Stumpjumper",
+			"artist": "Charlie Parr",
+			"release_year": "2015",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Sound & Color",
+			"artist": "Alabama Shakes",
+			"release_year": "2015",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Blurryface",
+			"artist": "Twenty-One Pilots",
+			"release_year": "2015",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Dear God",
+			"artist": "Hamilton Leithauser & Paul Maroon",
+			"release_year": "2015",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Untethered Moon",
+			"artist": "Built to Spill",
+			"release_year": "2015",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "b'lieve i'm goin (deep) down...",
+			"artist": "Kurt Vile",
+			"release_year": "2015",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Strange Trails",
+			"artist": "Lord Huron",
+			"release_year": "2015",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "No No No",
+			"artist": "Beirut",
+			"release_year": "2015",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The Spirit Moves",
+			"artist": "Langhorne Slim & The Law",
+			"release_year": "2015",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "I Love You, Honeybear",
+			"artist": "Father John Misty",
+			"release_year": "2015",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Dancing with Bad Grammar",
+			"artist": "L.A. Salami",
+			"release_year": "2016",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Awaken, My Love!",
+			"artist": "Childish Gambino",
+			"release_year": "2016",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Singing Saw",
+			"artist": "Kevin Morby",
+			"release_year": "2016",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Acoustic Recordings",
+			"artist": "Jack White",
+			"release_year": "2016",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "A Man Alive",
+			"artist": "Thao & The Get Down Stay Down",
+			"release_year": "2016",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Labor of Love",
+			"artist": "Taj Mahal",
+			"release_year": "2016",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "I Had a Dream That You Were Mine",
+			"artist": "Hamilton Leithauser + Rostam",
+			"release_year": "2016",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "City Music",
+			"artist": "Kevin Morby",
+			"release_year": "2016",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Changes",
+			"artist": "Charles Bradley",
+			"release_year": "2016",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Undivided Heart & Soul",
+			"artist": "JD McPherson",
+			"release_year": "2017",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Divide",
+			"artist": "Ed Sheeran",
+			"release_year": "2017",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Dog",
+			"artist": "Charlie Parr",
+			"release_year": "2017",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "American Epic The Sessions",
+			"artist": "Various Artists",
+			"release_year": "2017",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Caamp",
+			"artist": "Caamp",
+			"release_year": "2017",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The Philadelphia Experiment",
+			"artist": "Uri Caine, Christian McBride, Ahmir Thompson DJ Logic",
+			"release_year": "2017",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Pure Comedy",
+			"artist": "Father John Misty",
+			"release_year": "2017",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Live at Newport Folk",
+			"artist": "John Prine and Friends",
+			"release_year": "2017",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The World We Built",
+			"artist": "The Wild Reeds",
+			"release_year": "2017",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Lukas Nelson & Promise of the Real",
+			"artist": "Lukas Nelson & Promise of the Real",
+			"release_year": "2017",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Goodnight Rhonda Lee",
+			"artist": "Nicole Atkins",
+			"release_year": "2017",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Lost at Last Vol. 1",
+			"artist": "Langhorne Slim",
+			"release_year": "2017",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Where the Gods are in Peace",
+			"artist": "Antibalas",
+			"release_year": "2017",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"artist": "Willie Watson",
+			"release_title": "Folksinger Vol. 2",
+			"release_year": "2017",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Crack-up",
+			"artist": "Fleet Foxes",
+			"release_year": "2017",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "I Won't Let Up: Live At Music Hall of Williamsburg",
+			"artist": "Hamilton Leithauser + Rostam",
+			"release_year": "2017",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Hot Thoughts",
+			"artist": "Spoon",
+			"release_year": "2017",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Bottle It In",
+			"artist": "Kurt Vile",
+			"release_year": "2018",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Lamp Lit Prose",
+			"artist": "Dirty Projectors",
+			"release_year": "2018",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Tell Me How You Really Feel",
+			"artist": "Courtney Barnett",
+			"release_year": "2018",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Built to Spill Plays the Songs of Daniel Johnston",
+			"artist": "Built to Spill",
+			"release_year": "2018",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Boarding House Reach",
+			"artist": "Jack White",
+			"release_year": "2018",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "All My Relations",
+			"artist": "Cochemea",
+			"release_year": "2018",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "God's Favorite Customer",
+			"artist": "Father John Misty",
+			"release_year": "2018",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The Nude Party",
+			"artist": "The Nude Party",
+			"release_year": "2018",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "A Change is Gonna Come (Live at Newport Folk Fest)",
+			"artist": "Various Artists",
+			"release_year": "2018",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Window Flowers",
+			"artist": "Liz Cooper and the Stampede",
+			"release_year": "2018",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "I Can Feel You Creep Into My Private Life",
+			"artist": "Tune-Yards",
+			"release_year": "2018",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Boys",
+			"artist": "Caamp",
+			"release_year": "2018",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Lil G.L.'s Blue Bonanza",
+			"artist": "Charley Crockett",
+			"release_year": "2018",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "State of all Things",
+			"artist": "Ruby Velle & the Soulphonics",
+			"release_year": "2018",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Live at Third Man Records",
+			"artist": "Father John Misty",
+			"release_year": "2018",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Con Todo El Mundo",
+			"artist": "Khruangbin",
+			"release_year": "2018",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "My Finest Work Yet",
+			"artist": "Andrew Bird",
+			"release_year": "2019",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"artist": "Kjellvandertonbruket",
+			"release_title": "Doom Country",
+			"release_year": "2019",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "By & By",
+			"artist": "Caamp",
+			"release_year": "2019",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Illiterate Light",
+			"artist": "Illiterate Light",
+			"release_year": "2019",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Lonely As You Are (Single)",
+			"artist": "Charles Bradley",
+			"release_year": "2019",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Mayonnaise",
+			"artist": "Deer Tick",
+			"release_year": "2019",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "A Tribute to Curtis Mayfield",
+			"artist": "Various Artists",
+			"release_year": "1994",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Miss Universe",
+			"artist": "Nilüfer Yanya",
+			"release_year": "2019",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The Center Won't Hold",
+			"artist": "Sleater-Kinney",
+			"release_year": "2019",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Oh My God",
+			"artist": "Kevin Morby",
+			"release_year": "2019",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Help Us Stranger",
+			"artist": "The Raconteurs",
+			"release_year": "2019",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Turn Off The News Build a Garden",
+			"artist": "Lukas Nelson & Promise of the Real",
+			"release_year": "2019",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Romã",
+			"artist": "Oruã",
+			"release_year": "2019",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Come On Up To The House Women Sing Waits",
+			"artist": "Various Artists",
+			"release_year": "2019",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Black Pumas",
+			"artist": "Black Pumas",
+			"release_year": "2019",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Live! @ Cafe Carlyle",
+			"artist": "Hamilton Leithauser",
+			"release_year": "2019",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The Loves of your Life",
+			"artist": "Hamilton Leithauser",
+			"release_year": "2020",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Long In The Tooth",
+			"artist": "The Budos Band",
+			"release_year": "2020",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Capitol Cuts",
+			"artist": "Black Pumas",
+			"release_year": "2020",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Suite for Max Brown",
+			"artist": "Jeff Parker & The New Breed",
+			"release_year": "2020",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Heavy Light",
+			"artist": "U.S. Girls",
+			"release_year": "2020",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Temple",
+			"artist": "Thao & The Get Down Stay Down",
+			"release_year": "2020",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Just Dropped In...",
+			"artist": "Sharon Jones & The Dap Kings",
+			"release_year": "2020",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Caught It From The Rye",
+			"artist": "Tré Burt",
+			"release_year": "2020",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Sundowner",
+			"artist": "Kevin Morby",
+			"release_year": "2020",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Live from Fort Adams August 1, 2020",
+			"artist": "Deer Tick",
+			"release_year": "2020",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Italian Ice",
+			"artist": "Nicole Atkins",
+			"release_year": "2020",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Folklore",
+			"artist": "Taylor Swift",
+			"release_year": "2020",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Evermore",
+			"artist": "Taylor Swift",
+			"release_year": "2020",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Late Night Tales",
+			"artist": "Khruangbin",
+			"release_year": "2020",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Mordechai",
+			"artist": "Khruangbin",
+			"release_year": "2020",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Texas Sun",
+			"artist": "Khruangbin & Leon Bridges",
+			"release_year": "2020",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Speed, Sound, Lonely KV (EP)",
+			"artist": "Kurt Vile",
+			"release_year": "2020",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Strawberry Mansion",
+			"artist": "Langhorne Slim",
+			"release_year": "2021",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Miss Kitty's Lounge",
+			"artist": "Widespread Panic",
+			"release_year": "2021",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Voyager",
+			"artist": "Current Joys",
+			"release_year": "2021",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Amerikinda",
+			"artist": "Various Artists",
+			"release_year": "2021",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Day Plan",
+			"artist": "Izzy Heltai",
+			"release_year": "2020",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Vol 2: Baca Sewa",
+			"artist": "Cochemea",
+			"release_year": "2021",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "A Night at the Little Los Angeles",
+			"artist": "Kevin Morby",
+			"release_year": "2021",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Delta Kream",
+			"artist": "The Black Keys",
+			"release_year": "2021",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Red Rocks 2020",
+			"artist": "Nathaniel Rateliff",
+			"release_year": "2021",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The Exciting Sounds of...",
+			"artist": "Menahan Street Band",
+			"release_year": "2021",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Fear of the Dawn",
+			"artist": "Jack White",
+			"release_year": "2021",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Eternamente",
+			"artist": "Hermanos Gutierrez",
+			"release_year": "2021",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "You, Yeah, You",
+			"artist": "Tré Burt",
+			"release_year": "2021",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Quietly Blowing It",
+			"artist": "Hiss Golden Messenger",
+			"release_year": "2021",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Toy (EP)",
+			"artist": "David Bowie",
+			"release_year": "2022",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The Man From Waco",
+			"artist": "Charley Crockett",
+			"release_year": "2022",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "This is a Photograph",
+			"artist": "Kevin Morby",
+			"release_year": "2022",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "When the Wind Forgets Your Name",
+			"artist": "Built to Spill",
+			"release_year": "2022",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Texas Moon",
+			"artist": "Khruangbin & Leon Bridges",
+			"release_year": "2022",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Rain on the Road",
+			"artist": "Mary Lattimore and Walt McClements",
+			"release_year": "2022",
+			"mbidJson": 0
+		},
+		{
+			"release_title": "The Alien Coast",
+			"artist": "St. Paul & The Broken Bones",
+			"release_year": "2022",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Chloë And The Next 20th Century (Loser Edition)",
+			"artist": "Father John Misty",
+			"release_year": "2022",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "El Bueno Y El Malo",
+			"artist": "Hermanos Gutierrez",
+			"release_year": "2022",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Live at Radio City Music Hall",
+			"artist": "Khruangbin & Nubya Garcia",
+			"release_year": "2022",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"artist": "Dome & JD",
+			"release_title": "Not Tight",
+			"release_year": "2022",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Sunburned",
+			"artist": "Illiterate Light",
+			"release_year": "2023",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Stick Season (We'll All Be Here Forever)",
+			"artist": "Noah Kahan",
+			"release_year": "2023",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Live at Stubb's",
+			"artist": "Khruangbin & Friends",
+			"release_year": "2023",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Chronicles of a Diamond",
+			"artist": "Black Pumas",
+			"release_year": "2023",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"artist": "Charlie Parr",
+			"release_title": "Little Sun",
+			"release_year": "2024",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Highway Forever",
+			"artist": "Glitterfox",
+			"release_year": "2024",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Ohio Players",
+			"artist": "The Black Keys",
+			"release_year": "2024",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "The Tortured Poets Department",
+			"artist": "Taylor Swift",
+			"release_year": "2024",
+			"mbidJson": 0,
+			"mbJson": 0
+		},
+		{
+			"release_title": "Where we've been. Where we go from here. ",
+			"artist": "Friko",
+			"release_year": "2024",
+			"mbidJson": 0,
+			"mbJson": 0
 		}
 	]
 }
